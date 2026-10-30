@@ -32,7 +32,7 @@ The application has no database, storage bucket or paid API. It can run on a fre
 Requirements: Node.js 22.13 or later and npm.
 
 ```powershell
-cd "C:\Users\09250354\OneDrive\GitHub_Repos"
+cd "C:\path\to\your\projects"
 git clone https://github.com/georgegkoumas/CarPhotos-BackgroundRemoval.git
 cd .\CarPhotos-BackgroundRemoval
 npm ci
